@@ -2,20 +2,9 @@
 1. **Contact info:** 
 * telegram: anddinara
 * skype: sonya-geparda
-
-
-
-
-
-
-2. Контакты для связи
-3. Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-4. Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-5. Примеры кода *
-6. Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.**
-7. Образование (включая курсы, семинары, лекции, онлайн-обучение)
-8. Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
-
-* Обычно идёт речь о коде, размещённом на GitHub. Но так как проект учебный, разместите небольшой примеры кода, чтобы показать, что вы умеете работать с подсветкой кода в markdown.
-
-** Если проектов нет, временно оставьте данный блок пустым и заполняйте его по мере выполнения заданий курса RS School.
+1. I am constantly trying to learn something new. Interested in programming since 2015, but only recently was able to seriously do it. I know HTML, CSS, a little JavaScript, but I’m not satisfied with the current level of knowledge, so I’m trying to learn more.
+1. **Skills:** JavaScript, Git, Gulp, BEM.
+1. **Сode examples:** [Eurotrip](https://github.com/anddinara/2020-09-11-eurotrip), [Smart-device](https://github.com/anddinara/2020-10-21-smart-device)
+1. **Experience:** Since 2019 I have been studying at HTMLAcademy and so far there are only educational projects.
+1. **Education:** higher education (Bashkir State University), HTMLAcademy (since 2019).
+1. **English:** Elementary.
